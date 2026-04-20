@@ -32,6 +32,17 @@ Existing solutions (websites, portals, chatbots) required:
 
 Students needed a **faster, more intuitive way to find help**.
 
+## Existing Solutions
+
+UTSA already has several student support bots:
+
+- **RITA** – SMS-based assistant that proactively sends student success nudges  
+- **Rowdy Bot** – Web-based chatbot focused on admissions and financial aid FAQs  
+- **ADVi** – SMS-based pre-enrollment assistant for prospective students  
+
+### Gap
+None of these tools provide an always-on, student-initiated assistant inside Microsoft Teams for real-time campus resource discovery.
+
 ## Solution — Rowdy Rez
 
 I designed Rowdy Rez, a conversational AI assistant that allows students to ask questions in natural language and instantly receive relevant campus resource information.
