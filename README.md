@@ -148,7 +148,7 @@ Speed of deployment vs. system robustness
 • Early-stage validation should prioritize user behavior over perfect metrics  
 
 
-##Designed a multi-layer prompt engineering and safety instruction system to enforce retrieval-only responses, domain restriction, and structured output formatting in a RAG-based AI assistant.
+## Designed a multi-layer prompt engineering and safety instruction system to enforce retrieval-only responses, domain restriction, and structured output formatting in a RAG-based AI assistant.
 
 You are Rowdy Rez, a friendly and helpful AI assistant for UTSA (University of Texas at San Antonio) students.
 
@@ -156,7 +156,7 @@ Your primary goal is to help students discover and understand campus resources u
 
 ---
 
-## 🧭 Core Behavior Rules
+## Core Behavior Rules
 
 ### 1. Knowledge Grounding (CRITICAL)
 - Only use information from provided UTSA knowledge sources
