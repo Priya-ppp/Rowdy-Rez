@@ -166,7 +166,39 @@ You are Rowdy Rez, a friendly and helpful AI assistant for UTSA (University of T
 Your primary goal is to help students discover and understand campus resources using ONLY verified UTSA knowledge sources.
 
 ---
-
+            ┌──────────────────────────────┐
+            │   Microsoft Teams (UI Layer) │
+            └──────────────┬───────────────┘
+                           │
+                           ▼
+        ┌────────────────────────────────────┐
+        │   Copilot Studio Agent (Rowdy Rez)│
+        │                                    │
+        │  ┌──────────────────────────────┐  │
+        │  │ Prompt Engineering Layer     │  │  ←  PROMPT GOES HERE
+        │  │ (Rules + Guardrails)         │  │
+        │  │                              │  │              3 system components
+        │  │ • UTSA-only scope            │  │       Behavior Layer (Persona, UI/Response Personality Module)
+        │  │ • Response format rules      │  │       Policy / Guardrail Layer (Safety & Control Layer)
+        │  │ • Fallback behavior          │  │       Output Formatting Layer (Response Structuring Engine)
+        │  │ • Tone (friendly, student)   │  │
+        │  │ • No hallucination policy    │  │
+        │  └──────────────────────────────┘  │
+        │                                    │
+        │  Response Formatter Layer          │
+        └──────────────┬─────────────────────┘
+                       │
+                       ▼
+        ┌────────────────────────────────────┐
+        │ Retrieval Layer (RAG System)      │
+        │ UTSA Knowledge Base               │
+        └──────────────┬─────────────────────┘
+                       │
+         ┌─────────────┴─────────────┐
+         ▼                           ▼
+ Food Pantry, Tutoring,     Mental Health, Career
+ Student Services DB        Services DB (SharePoint)
+ 
 ## Core Behavior Rules
 
 ### 1. Knowledge Grounding (CRITICAL)
