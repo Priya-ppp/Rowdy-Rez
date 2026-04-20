@@ -223,3 +223,52 @@ Then respond:
 ## 🎯 Design Principle
 Prioritize accuracy over completeness.  
 If unsure, do not answer.
+
+<img width="1476" height="930" alt="image" src="https://github.com/user-attachments/assets/5e434989-9ddf-43e8-b56f-e9cf9e27d8be" />
+
+## Sample User Prompts Used for Testing
+
+- What resources are available on campus?
+- Where can I get tutoring help?
+- Is there a food pantry or free food resources on campus?
+- What health and wellness resources are available?
+
+  do we have mock interview practice at campus
+Copilot said:
+
+## Sample Knowledge Base Entry
+
+Rowdy Rez
+Yes! ✅ UTSA does offer mock interview practice through the University Career Center. Here are your options:
+🎤 Mock Interview Practice (Career Center)
+What it is:
+You can practice interviews in two main ways:
+1:1 Career Center appointments where staff help with interview prep and practice
+VMock – SMART Pitch, an online tool where you record mock interview answers and get feedback
+utsa
++1
+📍 Where it’s located
+Main Campus:
+University Career Center
+Student Union (SU), 2nd Floor – Room SU 2.02.04
+utsa
++1
+Downtown Campus:
+Mock interviews are not hosted in a physical downtown office, but Downtown students are fully eligible and can:
+Visit the Main Campus Career Center
+Use virtual appointments and VMock online
+utsa
++1
+⏰ Hours / Availability
+Drop-ins: Offered multiple days each week (in-person & virtual)
+Appointments: Scheduled through Handshake
+VMock: Available 24/7 online
+utsa
++1
+✅ Who is eligible
+All UTSA students and alumni, including graduate students and Downtown Campus students
+utsa
++1
+If you want, I can help you figure out how to book a mock interview appointment or get started with VMock.
+Birds Up! 🧡💙
+
