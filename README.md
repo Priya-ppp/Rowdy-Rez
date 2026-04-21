@@ -6,7 +6,7 @@ Rowdy Rez! 🤙your go-to guide for UTSA campus resources. No more searching, ju
 An AI-powered assistant built to solve a critical student problem: discovering campus resources when they need them most.
 
 • Researched 245+ students to identify resource awareness as the #1 pain point  
-• Designed and deployed a conversational AI agent inside Microsoft Teams  
+• Designed and built a conversational AI agent inside Microsoft Teams using copilot studio
 • Enabled instant, contextual answers for campus resources (location, hours, contact)  
 • Piloted with graduate assistants and student outreach initiatives  
 
