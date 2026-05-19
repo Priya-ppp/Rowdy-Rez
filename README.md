@@ -263,7 +263,7 @@ Then respond:
 
 ---
 
-## 🎯 Design Principle
+##  Design Principle
 Prioritize accuracy over completeness.  
 If unsure, do not answer.
 
