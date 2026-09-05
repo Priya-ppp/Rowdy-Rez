@@ -128,7 +128,23 @@ Rowdy Rez was piloted through:
 Even in early-stage testing, students showed strong preference for:
 → Asking questions conversationally instead of searching manually  
 
-(This project is currently in early validation stage; formal usage analytics and A/B testing are planned next.)
+### Operational Pilot — Graduate Assistant Call Center
+
+Beyond the live demos, Rowdy Rez was adopted as a working tool by 4 Graduate Assistants
+running UTSA's semester-long student outreach campaigns — fall registration, low-match,
+low-engagement, and mid-exam check-in calls — with individual GAs fielding roughly 180
+calls per campaign.
+
+Before Rowdy Rez, GAs relied on a shared Excel sheet to answer student questions live on
+these calls. That sheet regularly carried outdated contact information, incorrect
+hours/availability, and unclear eligibility criteria — errors that surfaced mid-call, in
+front of a student waiting on an answer. Rowdy Rez replaced it as the real-time reference
+during these campaigns.
+
+Adoption was strong enough that a student-facing version integrated into Canvas is now
+under discussion with the department, beyond the GA-facing pilot described here.
+
+(GA-facing usage above is real operational adoption; formal usage analytics and A/B testing against generic LLM responses are planned next.)
 
 ## Trade-offs & Limitations
 
@@ -147,7 +163,7 @@ Speed of deployment vs. system robustness
 • Implement analytics to track usage and accuracy  
 • Expand knowledge base using structured documents  
 • Improve retrieval consistency for edge cases  
-• Integrate with university platforms (Canvas, myUTSA)  
+• Integrate with Canvas for direct student access — already under discussion with the department following GA-pilot adoption  
 • Launch pilot with measurable success metrics  
 
 ## Key Learnings
